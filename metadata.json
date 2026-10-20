@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Planet",
+  "description": "Pocket Planet is an idle cosmic clicker and planet-building game with evolving worlds, alien companions, idle income, and galaxy leaderboards across web and Telegram Mini Apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
